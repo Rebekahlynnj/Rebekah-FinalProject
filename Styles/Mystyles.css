@@ -1,0 +1,27 @@
+.underline { text-decoration: underline;
+    font-style: normal;
+}
+
+.h2 {
+    font-size:xx-large;
+    color:darkslateblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.title {
+    font-size: x-large;
+    color: darkslateblue;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.link {
+    color: deepskyblue;
+}
+
+.anchors {
+    color:gold;
+    font-weight: bolder;
+}
